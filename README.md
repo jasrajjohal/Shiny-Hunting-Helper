@@ -1,5 +1,7 @@
 # Shiny Hunting Helper
 
+*I imported this project from my older github account
+
 ## Ideas behind Shiny Hunting Helper
 
 I want to create Shiny Helper to help fellow shiny hunters in the *Pokémon* games 
