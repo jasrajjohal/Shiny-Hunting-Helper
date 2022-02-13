@@ -1,0 +1,10 @@
+{
+    "name": "Hunted List",
+    "Pokemon": [{
+        "dexNum": 254,
+        "is breedable": false,
+        "name": "sceptile",
+        "locations": ["Evolve"],
+        "encounter rate": 100
+    }]
+}

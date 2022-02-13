@@ -1,0 +1,19 @@
+{
+    "name": "Currently Hunting",
+    "Pokemon": [
+        {
+            "dexNum": 259,
+            "is breedable": false,
+            "name": "marshtomp",
+            "locations": ["Evolve"],
+            "encounter rate": 100
+        },
+        {
+            "dexNum": 258,
+            "is breedable": true,
+            "name": "mudkip",
+            "locations": ["Starter"],
+            "encounter rate": 100
+        }
+    ]
+}

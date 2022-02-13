@@ -1,0 +1,19 @@
+{
+    "name": "Plan To Hunt List",
+    "Pokemon": [
+        {
+            "dexNum": 252,
+            "is breedable": true,
+            "name": "treecko",
+            "locations": ["Starter"],
+            "encounter rate": 100
+        },
+        {
+            "dexNum": 253,
+            "is breedable": false,
+            "name": "grovyle",
+            "locations": ["Evolve"],
+            "encounter rate": 100
+        }
+    ]
+}
